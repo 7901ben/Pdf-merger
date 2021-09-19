@@ -207,14 +207,6 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
 
 
-# In[1]:
-
-
-pip install PyPDF2
-
-
-# In[ ]:
-
 
 
 
