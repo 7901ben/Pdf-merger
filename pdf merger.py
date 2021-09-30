@@ -198,12 +198,8 @@ class AppDemo(QWidget):
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     app.setStyle("fusion")
-    
-    
-    
     demo = AppDemo()
     demo.show()
-
     sys.exit(app.exec_())
 
 
